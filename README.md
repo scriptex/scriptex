@@ -1,4 +1,7 @@
-### Hi there 👋
+<div align="center"><br><br><br><br>
+<img src="https://github.com/scriptex/scriptex/raw/master/preloader.svg?sanitize=true" width="80" height="80">
+<p>Loading</p><br><br><br><br>
+</div>
 
 <!--
 **scriptex/scriptex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
