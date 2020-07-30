@@ -4,21 +4,21 @@
 
 I'm a senior frontend developer at [Three 11](https://github.com/three11), based in Varna, Bulgaria.
 
------
+---
 
 Aside from coding, I have two small kids and a beautiful wife. This makes my day pretty tight as I am struggling to find time for everything that i ❤️ - my family and my job.
 
 I also ❤️ electronic music 🎛️
 
------
+---
 
-I ❤️ JavaScript, TypeScript, CSS and everything frontend. 
+I ❤️ JavaScript, TypeScript, CSS and everything frontend.
 
-I am fond of the serverless stack as I am using it in most of my closed- and open-source projects. 
+I am fond of the serverless stack as I am using it in most of my closed- and open-source projects.
 
 I am using MS Azure and AWS for my client projects and Vercel for my open source projects.
 
------
+---
 
 ![Scriptex's github stats](https://github-readme-stats.vercel.app/api?username=scriptex)
 
@@ -40,3 +40,44 @@ Here are some of them:
 ![ITSCSS](https://github-readme-stats.vercel.app/api/pin/?username=scriptex&repo=itscss)
 ![SCSS Goodies](https://github-readme-stats.vercel.app/api/pin/?username=scriptex&repo=scss-goodies)
 ![SVG64](https://github-readme-stats.vercel.app/api/pin/?username=scriptex&repo=svg64)
+
+---
+
+<div align="center"> 
+    <a href="https://atanas.info" target="_blank" rel="noopener noreferrer" title="Go to my website">
+        <img src="https://raw.githubusercontent.com/scriptex/socials/master/assets/logo.svg" height="20" alt="">
+    </a>
+    <a href="mailto:hi@atanas.info" target="_blank" rel="noopener noreferrer" title="Send me an email">
+        <img src="https://raw.githubusercontent.com/scriptex/socials/master/assets/email.svg" height="20" alt="">
+    </a>
+    <a href="https://www.linkedin.com/in/scriptex/" target="_blank" rel="noopener noreferrer" title="Find me on LinkedIn">
+        <img src="https://raw.githubusercontent.com/scriptex/socials/master/assets/linkedin.svg" height="20" alt="">
+    </a>
+    <a href="https://github.com/scriptex" target="_blank" rel="noopener noreferrer" title="See my projects on Github">
+        <img src="https://raw.githubusercontent.com/scriptex/socials/master/assets/github.svg" height="20" alt="">
+    </a>
+    <a href="https://gitlab.com/scriptex" target="_blank" rel="noopener noreferrer" title="See my projects on Gitlab">
+        <img src="https://raw.githubusercontent.com/scriptex/socials/master/assets/gitlab.svg" height="20" alt="">
+    </a>
+    <a href="https://twitter.com/scriptexbg" target="_blank" rel="noopener noreferrer" title="Follow me on Twitter">
+        <img src="https://raw.githubusercontent.com/scriptex/socials/master/assets/twitter.svg" height="20" alt="">
+    </a>
+    <a href="https://www.npmjs.com/~scriptex" target="_blank" rel="noopener noreferrer" title="See my packages on NPM">
+        <img src="https://raw.githubusercontent.com/scriptex/socials/master/assets/npm.svg" height="20" alt="">
+    </a>
+    <a href="https://www.youtube.com/user/scriptex" target="_blank" rel="noopener noreferrer" title="See my videos on YouTube">
+        <img src="https://raw.githubusercontent.com/scriptex/socials/master/assets/youtube.svg" height="20" alt="">
+    </a>
+    <a href="https://stackoverflow.com/users/4140082/atanas-atanasov" target="_blank" rel="noopener noreferrer" title="See my profile on StackOverflow">
+        <img src="https://raw.githubusercontent.com/scriptex/socials/master/assets/stackoverflow.svg" height="20" alt="">
+    </a>
+    <a href="https://codepen.io/scriptex/" target="_blank" rel="noopener noreferrer" title="See my work on Codepen">
+        <img src="https://raw.githubusercontent.com/scriptex/socials/master/assets/codepen.svg" width="20" alt="">
+    </a>
+    <a href="https://profile.codersrank.io/user/scriptex" target="_blank" rel="noopener noreferrer" title="See my profile on Codersrank">
+        <img src="https://raw.githubusercontent.com/scriptex/socials/master/assets/codersrank.svg" height="20" alt="">
+    </a>
+    <a href="https://sourcerer.io/scriptex" target="_blank" rel="noopener noreferrer" title="See my profile on Sourcerer">
+        <img src="https://sourcerer.io/icons/logo-sharing.svg" alt="" width="24" loading="lazy">
+    </a>
+</div>
