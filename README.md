@@ -8,7 +8,7 @@ I'm a senior frontend developer at [Three 11](https://github.com/three11), based
 
 Aside from coding, I have two small kids and a beautiful wife. This makes my day pretty tight as I am struggling to find time for everything that i ❤️ - my family and my job.
 
-I also ❤️ electronic music 🎛️
+I also [❤️ electronic music 🎛️](https://atanas.info/music)
 
 ---
 
@@ -20,32 +20,32 @@ I am using MS Azure and AWS for my client projects and Vercel for my open source
 
 ---
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=scriptex" alt="Atanas Atanasov's Public Github Stats">
-</div>
+I have several OSS projects I like to contribute to. Most of them are developer tools which automate or simplify certain tasks.
 
-I have several OSS projects I like to contribute to. The majority of my commits are for my projects, feel free to take a look :eyes:!
+The majority of my commits are for my projects, feel free to take a look :eyes:!
 
 Here are some of them:
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=scriptex&repo=create-pwa" alt="" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=scriptex&repo=localga" alt="" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=scriptex&repo=at-the-wall" alt="" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=scriptex&repo=material-snake" alt="" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=scriptex&repo=material-tetris" alt="" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=scriptex&repo=2048" alt="" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=scriptex&repo=AnimateMe" alt="" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=scriptex&repo=github-pages-vuepress" alt="" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=scriptex&repo=typed-usa-states" alt="" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=scriptex&repo=touchsweep" alt="" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=scriptex&repo=itcss" alt="" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=scriptex&repo=itscss" alt="" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=scriptex&repo=scss-goodies" alt="" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=scriptex&repo=svg64" alt="" />
+    <a href="https://github.com/scriptex/create-pwa"><img src="https://github-readme-stats.vercel.app/api/pin/?username=scriptex&repo=create-pwa" alt="" /></a>
+    <a href="https://github.com/scriptex/localga"><img src="https://github-readme-stats.vercel.app/api/pin/?username=scriptex&repo=localga" alt="" /></a>
+    <a href="https://github.com/scriptex/at-the-wall"><img src="https://github-readme-stats.vercel.app/api/pin/?username=scriptex&repo=at-the-wall" alt="" /></a>
+    <a href="https://github.com/scriptex/material-snake"><img src="https://github-readme-stats.vercel.app/api/pin/?username=scriptex&repo=material-snake" alt="" /></a>
+    <a href="https://github.com/scriptex/material-tetris"><img src="https://github-readme-stats.vercel.app/api/pin/?username=scriptex&repo=material-tetris" alt="" /></a>
+    <a href="https://github.com/scriptex/2048"><img src="https://github-readme-stats.vercel.app/api/pin/?username=scriptex&repo=2048" alt="" /></a>
+    <a href="https://github.com/scriptex/AnimateMe"><img src="https://github-readme-stats.vercel.app/api/pin/?username=scriptex&repo=AnimateMe" alt="" /></a>
+    <a href="https://github.com/scriptex/github-pages-vuepress"><img src="https://github-readme-stats.vercel.app/api/pin/?username=scriptex&repo=github-pages-vuepress" alt="" /></a>
+    <a href="https://github.com/scriptex/typed-usa-states"><img src="https://github-readme-stats.vercel.app/api/pin/?username=scriptex&repo=typed-usa-states" alt="" /></a>
+    <a href="https://github.com/scriptex/touchsweep"><img src="https://github-readme-stats.vercel.app/api/pin/?username=scriptex&repo=touchsweep" alt="" /></a>
+    <a href="https://github.com/scriptex/itcss"><img src="https://github-readme-stats.vercel.app/api/pin/?username=scriptex&repo=itcss" alt="" /></a>
+    <a href="https://github.com/scriptex/itscss"><img src="https://github-readme-stats.vercel.app/api/pin/?username=scriptex&repo=itscss" alt="" /></a>
+    <a href="https://github.com/scriptex/scss-goodies"><img src="https://github-readme-stats.vercel.app/api/pin/?username=scriptex&repo=scss-goodies" alt="" /></a>
+    <a href="https://github.com/scriptex/svg64"><img src="https://github-readme-stats.vercel.app/api/pin/?username=scriptex&repo=svg64" alt="" /></a>
 </div>
 
 ---
+
+<p align="center">Feel free to reach out and take a look at my personal website or social media profile below:</p>
 
 <div align="center">
     <a href="https://atanas.info"><img src="https://raw.githubusercontent.com/scriptex/socials/master/assets/logo.svg" height="20" alt=""></a>&nbsp;
