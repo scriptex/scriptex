@@ -1,4 +1,4 @@
-<img src="https://atanas.info/images/temp/atanas.jpg" align="left" width="100" height="100">
+<img src="https://atanas.info/images/temp/atanas.jpg" align="left" width="100" height="100" alt="Atanas Atanasov's profile photo">
 
 ## Hi, I'm Atanas 👋
 
