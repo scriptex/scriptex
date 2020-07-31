@@ -6,13 +6,7 @@ I'm a senior frontend developer at [Three 11](https://github.com/three11), based
 
 ---
 
-Aside from coding, I have two small kids and a beautiful wife. This makes my day pretty tight as I am struggling to find time for everything that i ❤️ - my family and my job.
-
-I also [❤️ electronic music 🎛️](https://atanas.info/music)
-
----
-
-I ❤️ JavaScript, TypeScript, CSS and everything frontend.
+I ❤️ JavaScript, TypeScript, CSS and everything frontend. I also :heart: my two boys and my wonderful wife.
 
 I am fond of the serverless stack as I am using it in most of my closed- and open-source projects.
 
@@ -61,3 +55,7 @@ Here are some of them:
     <a href="https://profile.codersrank.io/user/scriptex"><img src="https://raw.githubusercontent.com/scriptex/socials/master/assets/codersrank.svg" height="20" alt=""></a>&nbsp;
     <a href="https://sourcerer.io/scriptex" title="See my profile on Sourcerer"><img src="https://sourcerer.io/icons/logo-sharing.svg" alt="" height="20"></a>
 </div>
+
+---
+
+P.S. I also ❤️ electronic music and even [🎛️ produced some](https://atanas.info/music) in the past.
