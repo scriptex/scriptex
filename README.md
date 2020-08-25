@@ -46,4 +46,7 @@ P.S. I also ❤️ electronic music and even [🎛️ produced some](https://ata
 ---
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
