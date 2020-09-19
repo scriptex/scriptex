@@ -1,5 +1,7 @@
 # Hi, I'm Atanas 👋
 
+![](https://komarev.com/ghpvc?username=scriptex&color=blueviolet)
+
 I am a Senior Frontend Developer at [Three 11](https://github.com/three11), based in Varna, Bulgaria.
 
 I am currently working as a Lead Frontend Developer for E.ON on their innovative project E.ON Home.
