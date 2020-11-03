@@ -18,6 +18,12 @@ Most of my open-source projects are tools for faster and simpler web development
 
 ---
 
+![Statistics](https://github-readme-stats.vercel.app/api?username=scriptex&show_icons=true&count_private=true)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=scriptex)
+
+---
+
 <p align="center">Feel free to reach out and take a look at my personal website or social media profiles below:</p>
 
 <div align="center">
