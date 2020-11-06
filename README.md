@@ -2,6 +2,8 @@
 
 ![](https://komarev.com/ghpvc?username=scriptex&color=blueviolet)
 
+## About me
+
 I am a Senior Front-end Developer at [Three 11](https://github.com/three11), based in Varna, Bulgaria.
 
 I am currently working as a Lead Front-end Developer for E.ON on their innovative project E.ON Home.
@@ -16,7 +18,9 @@ In my spare time I like to contribute to open-source projects, create tools and 
 
 Most of my open-source projects are tools for faster and simpler web development process.
 
----
+## Statistics
+
+### Contributions graph
 
 <p align="center">
   <a href="https://profile.codersrank.io/user/scriptex" target="_blank">
@@ -24,13 +28,19 @@ Most of my open-source projects are tools for faster and simpler web development
   </a>
 </p>
 
----
+### Top languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=scriptex&show_icons=true&hide_border=true&locale=en&layout=compact)
+
+### Github stats
 
 ![Statistics](https://github-readme-stats.vercel.app/api?username=scriptex&show_icons=true&count_private=true)
 
+### Github trophies
+
 ![Trophies](https://github-profile-trophy.vercel.app/?username=scriptex)
 
----
+## Connect with me
 
 <p align="center">Feel free to reach out and take a look at my personal website or social media profiles below:</p>
 
