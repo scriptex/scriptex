@@ -30,7 +30,7 @@ Most of my open-source projects are tools for faster and simpler web development
 
 ### Top languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=scriptex&show_icons=true&hide_border=true&locale=en&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=scriptex&show_icons=true&locale=en&layout=compact)
 
 ### Github stats
 
