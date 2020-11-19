@@ -28,7 +28,7 @@ Most of my open-source projects are tools for faster and simpler web development
   </a>
 </p>
 
-### [NPM statistcis](http://npm-stats.com/scriptex)
+### [NPM Statistics](http://npm-stats.com/scriptex)
 
 ### Top languages
 
