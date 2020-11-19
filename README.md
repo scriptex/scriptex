@@ -28,6 +28,8 @@ Most of my open-source projects are tools for faster and simpler web development
   </a>
 </p>
 
+### [NPM statistcis](http://npm-stats.com/scriptex)
+
 ### Top languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=scriptex&show_icons=true&locale=en&layout=compact)
