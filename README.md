@@ -1,50 +1,6 @@
 # Hi, I'm Atanas 👋
 
-![](https://komarev.com/ghpvc?username=scriptex&color=blueviolet)
-
-## About me
-
-I am a Senior Front-end Developer at [Three 11](https://github.com/three11), based in Varna, Bulgaria.
-
-I am currently working as a Lead Front-end Developer for E.ON on their innovative project E.ON Home.
-
-I am also part of the top 3% at [Toptal](https://www.toptal.com/resume/atanas-atanasov) and a Founding Talent Member at [Braintrust](https://app.usebraintrust.com/talent/782/).
-
-I ❤️ JavaScript, TypeScript, CSS and everything front-end. 
-
-I am a father of two blue-eyed boys and a husband of an awesome wife.
-
-In my spare time I like to contribute to open-source projects, create tools and libraries which help developers build better applications.
-
-Most of my open-source projects are tools for faster and simpler web development process.
-
-## Statistics
-
-### Contributions graph
-
-<p align="center">
-  <a href="https://profile.codersrank.io/user/scriptex" target="_blank">
-    <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=scriptex&width=600" alt="CodersRank skills chart" />
-  </a>
-</p>
-
-### [NPM Statistics](http://npm-stats.com/scriptex)
-
-### Top languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=scriptex&show_icons=true&locale=en&layout=compact)
-
-### Github stats
-
-![Statistics](https://github-readme-stats.vercel.app/api?username=scriptex&show_icons=true&count_private=true)
-
-### Github trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=scriptex)
-
-## Connect with me
-
-<p align="center">Feel free to reach out and take a look at my personal website or social media profiles below:</p>
+![](https://metrics.lecoq.io/scriptex)
 
 <div align="center">
     <a href="https://atanas.info"><img src="https://raw.githubusercontent.com/scriptex/socials/master/assets/logo.svg" height="20" alt=""></a>&nbsp;
@@ -63,10 +19,7 @@ Most of my open-source projects are tools for faster and simpler web development
 
 ---
 
-P.S. I also ❤️ electronic music and even [🎛️ produced some](https://atanas.info/music) in the past.
-
----
-
+![](https://komarev.com/ghpvc?username=scriptex&color=blueviolet)
 [![Tweet](https://img.shields.io/badge/Tweet-Share_my_profile-blue.svg?style=flat-square&logo=twitter&color=38A1F3)](https://twitter.com/intent/tweet?text=Checkout%20this%20awesome%20developer%20profile%3A&url=https%3A%2F%2Fgithub.com%2Fscriptex&via=scriptexbg&hashtags=software%2Cgithub%2Ccode%2Cawesome)
 [![Donate](https://img.shields.io/badge/Donate-Support_me_on_PayPal-blue.svg?style=flat-square&logo=paypal&color=222d65)](https://www.paypal.me/scriptex)
 [![Become a Patron](https://img.shields.io/badge/Become_Patron-Support_me_on_Patreon-blue.svg?style=flat-square&logo=patreon&color=e64413)](https://www.patreon.com/atanas)
