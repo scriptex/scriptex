@@ -1,6 +1,9 @@
 # Hi, I'm Atanas 👋
 
-I am a JavaScript/TypeScript developer with passion about open source software, currently working as lead front-end developer on [E.ON Home](https://www.eonenergy.com/energy-management.html).
+I am a JavaScript/TypeScript developer with passion about open source software, currently working as a Lead Front-end developer on [E.ON Home](https://www.eonenergy.com/energy-management.html).
+
+I am also a senior JS/TS developer at Three11 where we build boutique software.
+I am also a part of the top 3% at Toptal and a founding member at Braintrust.
 
 I develop and maintain tools for developers. Check my repositories for more details.
 
