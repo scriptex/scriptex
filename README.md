@@ -1,6 +1,10 @@
 # Hi, I'm Atanas 👋
 
-![](https://metrics.lecoq.io/scriptex)
+I am a JavaScript/TypeScript developer with passion about open source software, currently working as lead front-end developer on [E.ON Home](https://www.eonenergy.com/energy-management.html).
+
+I develop and maintain tools for developers. Check my repositories for more details.
+
+Connect with me:
 
 <div align="center">
     <a href="https://atanas.info"><img src="https://raw.githubusercontent.com/scriptex/socials/master/assets/logo.svg" height="20" alt=""></a>&nbsp;
