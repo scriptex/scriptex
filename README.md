@@ -20,8 +20,7 @@ Connect with me:
     <a href="https://www.youtube.com/user/scriptex"><img src="https://raw.githubusercontent.com/scriptex/socials/master/assets/youtube.svg" height="20" alt=""></a>&nbsp;
     <a href="https://stackoverflow.com/users/4140082/atanas-atanasov"><img src="https://raw.githubusercontent.com/scriptex/socials/master/assets/stackoverflow.svg" height="20" alt=""></a>&nbsp;
     <a href="https://codepen.io/scriptex/"><img src="https://raw.githubusercontent.com/scriptex/socials/master/assets/codepen.svg" width="20" alt=""></a>&nbsp;
-    <a href="https://profile.codersrank.io/user/scriptex"><img src="https://raw.githubusercontent.com/scriptex/socials/master/assets/codersrank.svg" height="20" alt=""></a>&nbsp;
-    <a href="https://sourcerer.io/scriptex" title="See my profile on Sourcerer"><img src="https://sourcerer.io/icons/logo-sharing.svg" alt="" height="20"></a>
+    <a href="https://profile.codersrank.io/user/scriptex"><img src="https://raw.githubusercontent.com/scriptex/socials/master/assets/codersrank.svg" height="20" alt=""></a>
 </div>
 
 ---
