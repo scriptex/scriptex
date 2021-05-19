@@ -10,17 +10,17 @@ I develop and maintain tools for developers. Check my repositories for more deta
 Connect with me:
 
 <div align="center">
-    <a href="https://atanas.info"><img src="https://raw.githubusercontent.com/scriptex/socials/master/assets/logo.svg" height="20" alt=""></a>&nbsp;
-    <a href="mailto:hi@atanas.info"><img src="https://raw.githubusercontent.com/scriptex/socials/master/assets/email.svg" height="20" alt=""></a>&nbsp;
-    <a href="https://www.linkedin.com/in/scriptex/"><img src="https://raw.githubusercontent.com/scriptex/socials/master/assets/linkedin.svg" height="20" alt=""></a>&nbsp;
-    <a href="https://github.com/scriptex"><img src="https://raw.githubusercontent.com/scriptex/socials/master/assets/github.svg" height="20" alt=""></a>&nbsp;
-    <a href="https://gitlab.com/scriptex"><img src="https://raw.githubusercontent.com/scriptex/socials/master/assets/gitlab.svg" height="20" alt=""></a>&nbsp;
-    <a href="https://twitter.com/scriptexbg"><img src="https://raw.githubusercontent.com/scriptex/socials/master/assets/twitter.svg" height="20" alt=""></a>&nbsp;
-    <a href="https://www.npmjs.com/~scriptex"><img src="https://raw.githubusercontent.com/scriptex/socials/master/assets/npm.svg" height="20" alt=""></a>&nbsp;
-    <a href="https://www.youtube.com/user/scriptex"><img src="https://raw.githubusercontent.com/scriptex/socials/master/assets/youtube.svg" height="20" alt=""></a>&nbsp;
-    <a href="https://stackoverflow.com/users/4140082/atanas-atanasov"><img src="https://raw.githubusercontent.com/scriptex/socials/master/assets/stackoverflow.svg" height="20" alt=""></a>&nbsp;
-    <a href="https://codepen.io/scriptex/"><img src="https://raw.githubusercontent.com/scriptex/socials/master/assets/codepen.svg" width="20" alt=""></a>&nbsp;
-    <a href="https://profile.codersrank.io/user/scriptex"><img src="https://raw.githubusercontent.com/scriptex/socials/master/assets/codersrank.svg" height="20" alt=""></a>
+    <a href="https://atanas.info"><img src="https://raw.githubusercontent.com/scriptex/socials/master/styled-assets/logo.svg" height="20" alt=""></a>&nbsp;
+    <a href="mailto:hi@atanas.info"><img src="https://raw.githubusercontent.com/scriptex/socials/master/styled-assets/email.svg" height="20" alt=""></a>&nbsp;
+    <a href="https://www.linkedin.com/in/scriptex/"><img src="https://raw.githubusercontent.com/scriptex/socials/master/styled-assets/linkedin.svg" height="20" alt=""></a>&nbsp;
+    <a href="https://github.com/scriptex"><img src="https://raw.githubusercontent.com/scriptex/socials/master/styled-assets/github.svg" height="20" alt=""></a>&nbsp;
+    <a href="https://gitlab.com/scriptex"><img src="https://raw.githubusercontent.com/scriptex/socials/master/styled-assets/gitlab.svg" height="20" alt=""></a>&nbsp;
+    <a href="https://twitter.com/scriptexbg"><img src="https://raw.githubusercontent.com/scriptex/socials/master/styled-assets/twitter.svg" height="20" alt=""></a>&nbsp;
+    <a href="https://www.npmjs.com/~scriptex"><img src="https://raw.githubusercontent.com/scriptex/socials/master/styled-assets/npm.svg" height="20" alt=""></a>&nbsp;
+    <a href="https://www.youtube.com/user/scriptex"><img src="https://raw.githubusercontent.com/scriptex/socials/master/styled-assets/youtube.svg" height="20" alt=""></a>&nbsp;
+    <a href="https://stackoverflow.com/users/4140082/atanas-atanasov"><img src="https://raw.githubusercontent.com/scriptex/socials/master/styled-assets/stackoverflow.svg" height="20" alt=""></a>&nbsp;
+    <a href="https://codepen.io/scriptex/"><img src="https://raw.githubusercontent.com/scriptex/socials/master/styled-assets/codepen.svg" width="20" alt=""></a>&nbsp;
+    <a href="https://profile.codersrank.io/user/scriptex"><img src="https://raw.githubusercontent.com/scriptex/socials/master/styled-assets/codersrank.svg" height="20" alt=""></a>
 </div>
 
 ---
