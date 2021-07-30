@@ -7,6 +7,13 @@ I am also a part of the top 3% at Toptal and a founding member at Braintrust.
 
 I develop and maintain tools for developers. Check my repositories for more details.
 
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=scriptex&theme=github_dark&show_icons=true&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scriptex&theme=github_dark&hide_border=true&layout=compact)
+
+---
+
 Connect with me:
 
 <div align="center">
