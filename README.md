@@ -7,7 +7,7 @@ I am also a part of the top 3% at Toptal and a founding member at Braintrust.
 
 I develop and maintain tools for developers. Check my repositories for more details.
 
-![NPM Stats](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/scriptex/npm-stats/main/badge.json)
+[![NPM Stats](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/scriptex/npm-stats/main/badge.json)](https://github.com/scriptex/npm-stats)
 
 ---
 
