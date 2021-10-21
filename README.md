@@ -29,7 +29,8 @@ Connect with me:
     <a href="https://www.youtube.com/user/scriptex"><img src="https://raw.githubusercontent.com/scriptex/socials/master/styled-assets/youtube.svg" height="20" alt=""></a>&nbsp;
     <a href="https://stackoverflow.com/users/4140082/atanas-atanasov"><img src="https://raw.githubusercontent.com/scriptex/socials/master/styled-assets/stackoverflow.svg" height="20" alt=""></a>&nbsp;
     <a href="https://codepen.io/scriptex/"><img src="https://raw.githubusercontent.com/scriptex/socials/master/styled-assets/codepen.svg" width="20" alt=""></a>&nbsp;
-    <a href="https://profile.codersrank.io/user/scriptex"><img src="https://raw.githubusercontent.com/scriptex/socials/master/styled-assets/codersrank.svg" height="20" alt=""></a>
+    <a href="https://profile.codersrank.io/user/scriptex"><img src="https://raw.githubusercontent.com/scriptex/socials/master/styled-assets/codersrank.svg" height="20" alt=""></a>&nbsp;
+    <a href="https://linktr.ee/scriptex"><img src="https://raw.githubusercontent.com/scriptex/socials/master/styled-assets/linktree.svg" height="20" alt="">
 </div>
 
 ---
