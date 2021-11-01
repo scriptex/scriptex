@@ -40,3 +40,4 @@ Connect with me:
 [![Donate](https://img.shields.io/badge/Donate-Support_me_on_PayPal-blue.svg?style=flat-square&logo=paypal&color=222d65)](https://www.paypal.me/scriptex)
 [![Become a Patron](https://img.shields.io/badge/Become_Patron-Support_me_on_Patreon-blue.svg?style=flat-square&logo=patreon&color=e64413)](https://www.patreon.com/atanas)
 [![Buy Me A Coffee](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellow.svg?logo=ko-fi)](https://ko-fi.com/scriptex)
+[![Donate with Bitcoin](https://en.cryptobadges.io/badge/micro/39fTgBStghawKyJdTd83Qg8cFkq5MQprLT)](https://en.cryptobadges.io/donate/39fTgBStghawKyJdTd83Qg8cFkq5MQprLT)
