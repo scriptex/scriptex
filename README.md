@@ -11,8 +11,7 @@ I develop and maintain tools for developers. Check my repositories for more deta
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=scriptex&theme=github_dark&show_icons=true&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scriptex&theme=github_dark&hide_border=true&layout=compact)
+![GitHub stats](https://raw.githubusercontent.com/scriptex/scriptex/master/profile-3d-contrib/profile-night-green.svg)
 
 ---
 
