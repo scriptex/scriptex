@@ -77,19 +77,17 @@ Here is a bit more detailed graph showing my open source contributions in the pa
 ---
 
 <div align="center">
-    Support and sponsor my work:
+    Support and sponsor my work:<br /><br />
+
+[![Tweet](https://img.shields.io/badge/Tweet-Share_my_profile-blue.svg?logo=twitter&color=38A1F3)](https://twitter.com/intent/tweet?text=Checkout%20this%20awesome%20developer%20profile%3A&url=https%3A%2F%2Fgithub.com%2Fscriptex&via=scriptexbg&hashtags=software%2Cgithub%2Ccode%2Cawesome)
     
-    <br />
-    
-[![Tweet](https://img.shields.io/badge/Tweet-Share_my_profile-blue.svg?style=flat-square&logo=twitter&color=38A1F3)](https://twitter.com/intent/tweet?text=Checkout%20this%20awesome%20developer%20profile%3A&url=https%3A%2F%2Fgithub.com%2Fscriptex&via=scriptexbg&hashtags=software%2Cgithub%2Ccode%2Cawesome)
-    
-[![Donate on Paypal](https://img.shields.io/badge/Donate-Support_me_on_PayPal-blue.svg?style=flat-square&logo=paypal&color=222d65)](https://paypal.me/scriptex)
+[![Donate on Paypal](https://img.shields.io/badge/Donate-Support_me_on_PayPal-blue.svg?logo=paypal&color=222d65)](https://paypal.me/scriptex)
 [![Donate on Revolut](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/scriptex/scriptex/badges/badges/revolut.json)](https://revolut.me/scriptex)
-[![Become a Patron](https://img.shields.io/badge/Become_Patron-Support_me_on_Patreon-blue.svg?style=flat-square&logo=patreon&color=e64413)](https://patreon.com/atanas)
+[![Become a Patron](https://img.shields.io/badge/Become_Patron-Support_me_on_Patreon-blue.svg?logo=patreon&color=e64413)](https://patreon.com/atanas)
 [![Buy Me A Coffee](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellow.svg?logo=ko-fi)](https://ko-fi.com/scriptex)
 [![Donate on Liberapay](https://img.shields.io/liberapay/receives/scriptex?label=Donate%20on%20Liberapay&logo=liberapay)](https://liberapay.com/scriptex/donate)
     
-![Donate Bitcoin](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/scriptex/scriptex/badges/badges/bitcoin.json)
-![Donate Etherium](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/scriptex/scriptex/badges/badges/etherium.json)
+![Donate Bitcoin](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/scriptex/scriptex/badges/badges/bitcoin.json)<br />
+![Donate Etherium](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/scriptex/scriptex/badges/badges/etherium.json)<br />
 ![Donate Shiba Inu](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/scriptex/scriptex/badges/badges/shiba-inu.json)
 </div>
