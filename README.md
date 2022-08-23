@@ -84,9 +84,9 @@ Here is a bit more detailed graph showing my open source contributions in the pa
 
 [![Tweet](https://img.shields.io/badge/Tweet-Share_my_profile-blue.svg?style=flat-square&logo=twitter&color=38A1F3)](https://twitter.com/intent/tweet?text=Checkout%20this%20awesome%20developer%20profile%3A&url=https%3A%2F%2Fgithub.com%2Fscriptex&via=scriptexbg&hashtags=software%2Cgithub%2Ccode%2Cawesome)
 [![Donate on Paypal](https://img.shields.io/badge/Donate-Support_me_on_PayPal-blue.svg?style=flat-square&logo=paypal&color=222d65)](https://paypal.me/scriptex)
-[![Donate on Revolut](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fscriptex%2Fscriptex%2Fbadges%2Fbadges%2Frevolut.json)](https://revolut.me/scriptex)
+[![Donate on Revolut](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/scriptex/scriptex/badges/badges/revolut.json)](https://revolut.me/scriptex)
 [![Become a Patron](https://img.shields.io/badge/Become_Patron-Support_me_on_Patreon-blue.svg?style=flat-square&logo=patreon&color=e64413)](https://patreon.com/atanas)
 [![Buy Me A Coffee](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellow.svg?logo=ko-fi)](https://ko-fi.com/scriptex)
-![Donate Bitcoin](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fscriptex%2Fscriptex%2Fbadges%2Fbadges%2Fbitcoin.json)
-![Donate Shiba Inu](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fscriptex%2Fscriptex%2Fbadges%2Fbadges%2Fshiba-inu.json)
+![Donate Bitcoin](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/scriptex/scriptex/badges/badges/bitcoin.json)
+![Donate Shiba Inu](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/scriptex/scriptex/badges/badges/shiba-inu.json)
 
