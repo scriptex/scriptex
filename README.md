@@ -87,5 +87,6 @@ Here is a bit more detailed graph showing my open source contributions in the pa
 [![Donate on Revolut](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fscriptex%2Fscriptex%2Fbadges%2Fbadges%2Frevolut.json)](https://revolut.me/scriptex)
 [![Become a Patron](https://img.shields.io/badge/Become_Patron-Support_me_on_Patreon-blue.svg?style=flat-square&logo=patreon&color=e64413)](https://patreon.com/atanas)
 [![Buy Me A Coffee](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellow.svg?logo=ko-fi)](https://ko-fi.com/scriptex)
-[[![Donate Bitcoin]()](33rKNvKEyvEattkHtMWwLpc4d3SmuWuYdP)](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fscriptex%2Fscriptex%2Fbadges%2Fbadges%2Fbitcoin.json)
+![Donate Bitcoin](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fscriptex%2Fscriptex%2Fbadges%2Fbadges%2Fbitcoin.json)
+![Donate Shiba Inu](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fscriptex%2Fscriptex%2Fbadges%2Fbadges%2Fshiba-inu.json)
 
