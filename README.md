@@ -6,11 +6,11 @@
 - Part of "the top 3% in the world" at [Toptal](https://www.toptal.com/resume/atanas-atanasov)
 - Founding talent member at [Braintrust](https://app.usebraintrust.com/talent/782/)
 - Senior front-end developer at [Andela](https://andela.com/)
-- Open source software maintainer - check [my projects](https://github.com/scriptex?tab=repositories). 
+- Open source software maintainer - check [my projects](https://github.com/scriptex?tab=repositories).
 
-My open source software is published [on NPM](https://www.npmjs.com/~scriptex) and has been downloaded this many times: 
+My open source software is published [on NPM](https://www.npmjs.com/~scriptex) and has been downloaded this many times:
 
-[![NPM Stats](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/scriptex/npm-stats/main/badge.json)](https://github.com/scriptex/npm-stats) 
+[![NPM Stats](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/scriptex/npm-stats/main/badge.json)](https://github.com/scriptex/npm-stats)
 
 Here is a bit more detailed graph showing my open source contributions in the past year:
 
@@ -75,7 +75,7 @@ Here is a bit more detailed graph showing my open source contributions in the pa
 </div>
 
 ---
-    
+
 <div align="center">
     Support and sponsor my work:
 </div>
@@ -83,7 +83,13 @@ Here is a bit more detailed graph showing my open source contributions in the pa
 <br />
 
 [![Tweet](https://img.shields.io/badge/Tweet-Share_my_profile-blue.svg?style=flat-square&logo=twitter&color=38A1F3)](https://twitter.com/intent/tweet?text=Checkout%20this%20awesome%20developer%20profile%3A&url=https%3A%2F%2Fgithub.com%2Fscriptex&via=scriptexbg&hashtags=software%2Cgithub%2Ccode%2Cawesome)
-[![Donate](https://img.shields.io/badge/Donate-Support_me_on_PayPal-blue.svg?style=flat-square&logo=paypal&color=222d65)](https://www.paypal.me/scriptex)
-[![Become a Patron](https://img.shields.io/badge/Become_Patron-Support_me_on_Patreon-blue.svg?style=flat-square&logo=patreon&color=e64413)](https://www.patreon.com/atanas)
+
+[![Donate on Paypal](https://img.shields.io/badge/Donate-Support_me_on_PayPal-blue.svg?style=flat-square&logo=paypal&color=222d65)](https://paypal.me/scriptex)
+
+[![Donate on Revolut](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fscriptex%2Fscriptex%2Fbadges%2Fbadges%2Frevolut.json)](https://revolut.me/scriptex)
+
+[![Become a Patron](https://img.shields.io/badge/Become_Patron-Support_me_on_Patreon-blue.svg?style=flat-square&logo=patreon&color=e64413)](https://patreon.com/atanas)
+
 [![Buy Me A Coffee](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellow.svg?logo=ko-fi)](https://ko-fi.com/scriptex)
+
 [![Donate with Bitcoin](https://en.cryptobadges.io/badge/micro/39fTgBStghawKyJdTd83Qg8cFkq5MQprLT)](https://en.cryptobadges.io/donate/39fTgBStghawKyJdTd83Qg8cFkq5MQprLT)
