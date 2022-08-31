@@ -6,7 +6,12 @@
 - Part of "the top 3% in the world" at [Toptal](https://www.toptal.com/resume/atanas-atanasov)
 - Founding talent member at [Braintrust](https://app.usebraintrust.com/talent/782/)
 - Senior front-end developer at [Andela](https://andela.com/)
-- Freelance front-end developer at [Upwork](https://www.upwork.com/freelancers/~01736096283e1b5690)
+- Freelance JavaScript/TypeScript Engineer at [Upwork](https://www.upwork.com/freelancers/~01736096283e1b5690)
+- Freelance JavaScript/TypeScript Engineer at [Freelancer](https://www.freelancer.com/u/scriptexbg)
+- Freelance front-end engineer at [9am](https://app.9am.works/talent/atanas-atanasov)
+- Freelance front-end developer at [AngelList](https://angel.co/u/scriptex)
+- Senior front-end enginner at [People Per Hour](https://pph.me/scriptex)
+- Freelance front-end developer at [FlexWork](https://www.flexworkweb.com/@66374b3b)
 - Open source software maintainer - check [my projects](https://github.com/scriptex?tab=repositories).
 
 My open source software is published [on NPM](https://www.npmjs.com/~scriptex) and has been downloaded this many times:
