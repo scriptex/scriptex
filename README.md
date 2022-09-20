@@ -1,4 +1,4 @@
-# Hi, I'm Atanas 👋 ![Total profile views](https://komarev.com/ghpvc?username=scriptex&color=blueviolet)
+# Hi, I'm Atanas 👋 ![Total profile views](https://komarev.com/ghpvc?username=scriptex&color=blueviolet) [![Analytics](https://ga-beacon-361907.ew.r.appspot.com/UA-83446952-1/github.com/scriptex/scriptex/README.md?pixel)](https://github.com/scriptex/scriptex/)
 
 - JS/TS engineer with more than 10 years of experience
 - Lead front-end developer in the [E.ON Home](https://www.eonenergy.com/energy-management.html) project
@@ -104,7 +104,6 @@ Support and sponsor my work:
 <a href="https://liberapay.com/scriptex/donate" title="Donate on Liberapay">
 	<img src="https://img.shields.io/liberapay/receives/scriptex?label=Donate%20on%20Liberapay&logo=liberapay" />
 </a>
-
 <a href="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/scriptex/scriptex/master/badges/bitcoin.json" title="Donate Bitcoin">
 	<img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/scriptex/scriptex/master/badges/bitcoin.json" />
 </a>
