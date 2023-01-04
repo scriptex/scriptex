@@ -19,6 +19,8 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
+          git config user.name Atanas Atanasov
+          git config user.email hi@atanas.info
           git add -A .
           git commit -m "Generate 3D images"
           git push
