@@ -13,6 +13,7 @@
 - Senior front-end enginner at [People Per Hour](https://pph.me/scriptex)
 - Freelance front-end developer at [FlexWork](https://www.flexworkweb.com/@66374b3b)
 - Open source software maintainer - check [my projects](https://github.com/scriptex?tab=repositories).
+- Author of web components at [WebComponents.org](https://www.webcomponents.org/author/scriptex)
 
 My open source software is published [on NPM](https://www.npmjs.com/~scriptex) and has been downloaded this many times:
 
