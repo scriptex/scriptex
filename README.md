@@ -1,4 +1,4 @@
-# Hi, I'm Atanas 👋 ![Total profile views](https://komarev.com/ghpvc?username=scriptex&color=blueviolet) [![Analytics](https://ga-beacon-361907.ew.r.appspot.com/UA-83446952-1/github.com/scriptex/scriptex/README.md?pixel)](https://github.com/scriptex/scriptex/)
+# Hi, I'm Atanas 👋 ![Total profile views](https://komarev.com/ghpvc?username=scriptex&color=blueviolet) [![Analytics](https://ga-beacon.atanas.info/api/analytics?account=UA-83446952-1&page=github.com/scriptex/scriptex&pixel)](https://github.com/scriptex/scriptex/)
 
 - JS/TS engineer with more than 10 years of experience
 - Lead front-end developer in the [E.ON Home](https://www.eonenergy.com/energy-management.html) project
