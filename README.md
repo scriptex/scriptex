@@ -1,15 +1,15 @@
 # Hi, I'm Atanas 👋 ![Total profile views](https://komarev.com/ghpvc?username=scriptex&color=blueviolet) [![Analytics](https://ga-beacon.atanas.info/api/analytics?account=UA-83446952-1&page=github.com/scriptex/scriptex&pixel)](https://github.com/scriptex/scriptex/)
 
-- JS/TS engineer with more than 10 years of experience
-- Lead front-end developer in the [E.ON Home](https://www.eonenergy.com/energy-management.html) project
+- Javascript/Typescript engineer with more than 10 years of professional experience
+- Lead front-end engineer in the [E.ON Home](https://www.eonenergy.com/energy-management.html) project
 - Senior software developer at [Three11](https://github.com/three11)
 - Part of "the top 3% in the world" at [Toptal](https://www.toptal.com/resume/atanas-atanasov)
 - Founding talent member at [Braintrust](https://app.usebraintrust.com/talent/782/)
-- Senior front-end developer at [Andela](https://andela.com/)
+- Senior front-end engineer at [Andela](https://andela.com/)
 - Freelance Javascript/Typescript Engineer at [Upwork](https://www.upwork.com/freelancers/~01736096283e1b5690)
 - Freelance Javascript/Typescript Engineer at [Freelancer](https://www.freelancer.com/u/scriptexbg)
 - Freelance front-end engineer at [9am](https://app.9am.works/talent/atanas-atanasov)
-- Freelance front-end developer at [AngelList](https://angel.co/u/scriptex)
+- Freelance front-end developer at [Wellfound](https://wellfound.com/u/scriptex)
 - Senior front-end enginner at [People Per Hour](https://pph.me/scriptex)
 - Freelance front-end developer at [FlexWork](https://www.flexworkweb.com/@66374b3b)
 - Open source software maintainer - check [my projects](https://github.com/scriptex?tab=repositories).
