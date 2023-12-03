@@ -1,12 +1,16 @@
 # Hi, I'm Atanas 👋 ![Total profile views](https://komarev.com/ghpvc?username=scriptex&color=blueviolet) [![Analytics](https://ga-beacon.atanas.info/api/analytics?account=UA-83446952-1&page=github.com/scriptex/scriptex&pixel)](https://github.com/scriptex/scriptex/)
 
 - Javascript/Typescript engineer doing Web and Mobile front-end development since 2011
-- Ex lead front-end engineer in the [E.ON Home](https://www.eonenergy.com/energy-management.html) project
-- Ex senior web developer at [Kinetik Automotive](https://kinetikautomotive.com/)
 - Senior software developer at [Three11](https://github.com/three11)
+- Ex lead front-end engineer in the [E.ON Home](https://www.eonenergy.com/energy-management.html) project
+- Ex senior web developer at [Kinetik Automotive](https://kinetikautomotive.com)
+- Ex senior front-end engineer and mentor at [2create](https://2create.io)
+- Ex senior front-end developer at [htmlBurger](https://htmlburger.com)
+- Ex senior front-end developer at [htmlBoutique](https://htmlboutique.com)
+- Ex front-end developer at [HTML Lab](https://html-lab.com)
 - Part of "the top 3% in the world" at [Toptal](https://www.toptal.com/resume/atanas-atanasov)
-- Founding talent member at [Braintrust](https://app.usebraintrust.com/talent/782/)
-- Senior front-end engineer at [Andela](https://andela.com/)
+- Founding talent member at [Braintrust](https://app.usebraintrust.com/talent/782)
+- Senior front-end engineer at [Andela](https://andela.com)
 - Freelance Javascript/Typescript Engineer at [Upwork](https://www.upwork.com/freelancers/~01736096283e1b5690)
 - Freelance Javascript/Typescript Engineer at [Freelancer](https://www.freelancer.com/u/scriptexbg)
 - Freelance front-end engineer at [9am](https://app.9am.works/talent/atanas-atanasov)
