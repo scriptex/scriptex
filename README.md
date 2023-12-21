@@ -15,7 +15,7 @@
 - Freelance Javascript/Typescript Engineer at [Freelancer](https://www.freelancer.com/u/scriptexbg)
 - Freelance front-end engineer at [9am](https://app.9am.works/talent/atanas-atanasov)
 - Freelance front-end developer at [Wellfound](https://wellfound.com/u/scriptex)
-- Senior front-end enginner at [People Per Hour](https://pph.me/scriptex)
+- Senior front-end engineer at [People Per Hour](https://pph.me/scriptex)
 - Freelance front-end developer at [FlexWork](https://www.flexworkweb.com/@66374b3b)
 - Open source software maintainer - check [my projects](https://github.com/scriptex?tab=repositories).
 - Author of web components at [WebComponents.org](https://www.webcomponents.org/author/scriptex)
