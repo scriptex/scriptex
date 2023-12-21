@@ -1,7 +1,7 @@
 # Hi, I'm Atanas 👋 ![Total profile views](https://komarev.com/ghpvc?username=scriptex&color=blueviolet) [![Analytics](https://ga-beacon.atanas.info/api/analytics?account=UA-83446952-1&page=github.com/scriptex/scriptex&pixel)](https://github.com/scriptex/scriptex/)
 
 - Javascript/Typescript engineer doing Web and Mobile front-end development since 2011
-- Senior software developer at [Three11](https://github.com/three11)
+- Ex senior software developer and mentor at [Three11](https://github.com/three11)
 - Ex lead front-end engineer in the [E.ON Home](https://www.eonenergy.com/energy-management.html) project
 - Ex senior web developer at [Kinetik Automotive](https://kinetikautomotive.com)
 - Ex senior front-end engineer and mentor at [2create](https://2create.io)
