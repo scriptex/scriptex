@@ -31,6 +31,8 @@ Here is a bit more detailed graph showing my open source contributions in the pa
 
 ![GitHub stats](https://raw.githubusercontent.com/scriptex/scriptex/master/profile-3d-contrib/profile-night-green.svg)
 
+Wondering how to pronounce my name? [Not anymore!](https://howtopronounce.com/atanas)
+
 ---
 
 <div align="center">
