@@ -18,6 +18,8 @@
 - Freelance front-end developer at [Wellfound](https://wellfound.com/u/scriptex)
 - Senior front-end engineer at [People Per Hour](https://pph.me/scriptex)
 - Freelance front-end developer at [FlexWork](https://www.flexworkweb.com/@66374b3b)
+- Freelance front-end developer at [Arc.dev](https://arc.dev/@scriptex)
+- Freelance front-end developer at [Codementor](https://www.codementor.io/@scriptex)
 - Open source software maintainer - check [my projects](https://github.com/scriptex?tab=repositories).
 - Author of web components at [WebComponents.org](https://www.webcomponents.org/author/scriptex)
 - Author of browser extensions for [Google Chrome](https://chromewebstore.google.com/detail/css-diagnostics/peaeggimiceafdnmebnjlfljfnjngfkf?hl=en-GB) and [Mozilla Firefox](https://addons.mozilla.org/en-US/firefox/user/14776024/)
