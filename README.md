@@ -17,7 +17,7 @@
 - Freelance front-end engineer at [9am](https://app.9am.works/talent/atanas-atanasov)
 - Freelance front-end developer at [Wellfound](https://wellfound.com/u/scriptex)
 - Senior front-end engineer at [People Per Hour](https://pph.me/scriptex)
-- Freelance front-end developer at [FlexWork](https://www.flexworkweb.com/@66374b3b)
+- Freelance front-end developer at [FlexWork](https://app.flexworkweb.com/@66374b3b)
 - Freelance front-end developer at [Arc.dev](https://arc.dev/@scriptex)
 - Freelance front-end developer at [Codementor](https://www.codementor.io/@scriptex)
 - Open source software maintainer - check [my projects](https://github.com/scriptex?tab=repositories).
