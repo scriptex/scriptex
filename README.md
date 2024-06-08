@@ -11,7 +11,7 @@
 - Former front-end developer at [HTML Lab](https://html-lab.com)
 - Part of "the top 3% in the world" at [Toptal](https://www.toptal.com/resume/atanas-atanasov)
 - Founding talent member at [Braintrust](https://app.usebraintrust.com/talent/782)
-- Senior front-end engineer at [Andela](https://andela.com)
+- Senior front-end engineer at [Andela](https://client.andela.com/talent/profile/7d071162-daba-4681-afb7-70b72eec4f93)
 - Freelance Javascript/Typescript Engineer at [Upwork](https://www.upwork.com/freelancers/~01736096283e1b5690)
 - Freelance Javascript/Typescript Engineer at [Freelancer](https://www.freelancer.com/u/scriptexbg)
 - Freelance front-end engineer at [9am](https://app.9am.works/talent/atanas-atanasov)
