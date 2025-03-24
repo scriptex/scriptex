@@ -35,6 +35,8 @@ Here is a bit more detailed graph showing my open source contributions in the pa
 
 Wondering how to pronounce my name? [Not anymore!](https://howtopronounce.com/atanas)
 
+[![Written By a Human Being](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/scriptex/written-by-a-human-being/main/badge.json)](https://github.com/scriptex/written-by-a-human-being)
+
 ---
 
 <div align="center">
