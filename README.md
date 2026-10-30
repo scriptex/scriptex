@@ -2,8 +2,8 @@
 
 - Javascript/Typescript engineer doing Web and Mobile front-end development since 2011
 - Lead front-end developer at [dmarcian](https://dmarcian.com)
-- Former senior software developer and mentor at [Three11](https://github.com/three11)
-- Former lead front-end engineer in the [E.ON Home](https://www.eonenergy.com/energy-management.html) project
+- Former senior software developer and mentor at [Three11](https://three-11.com)
+- Former lead front-end engineer in the [E.ON Home](https://www.eon.com/en/private-customers/home-energy-management.html) project
 - Former senior web and desktop applications developer at [Kinetik Automotive](https://kinetikautomotive.com)
 - Former senior front-end engineer and mentor at [2create](https://2create.io)
 - Former senior front-end developer at [htmlBurger](https://htmlburger.com)
