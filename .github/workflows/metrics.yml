@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
         with:
           # Your GitHub token
           # The following scopes are required:
@@ -43,3 +43,4 @@ jobs:
           plugin_lines: yes
           plugin_stars: yes
           plugin_stars_limit: 4
+          use_prebuilt_image: no
