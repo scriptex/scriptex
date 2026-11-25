@@ -43,4 +43,3 @@ jobs:
           plugin_lines: yes
           plugin_stars: yes
           plugin_stars_limit: 4
-          use_prebuilt_image: no
